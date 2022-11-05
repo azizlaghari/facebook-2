@@ -95,7 +95,7 @@ const Add = () => {
             variant="contained"
             aria-label="outlined primary button group"
           >
-            <Button>Post</Button>
+            <Button>Posts</Button>
             <Button sx={{ width: "100px" }}>
               <DateRange />
             </Button>
