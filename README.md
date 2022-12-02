@@ -1,4 +1,4 @@
-Facebook 2 built with React-JS and Material-UI https://facebook-2-388ab.web.app/
+Facebook 2 built with React-JS and Material-UI https://facebook-2-388ab.firebaseapp.com/
 
 # Getting Started with Create React App
 
